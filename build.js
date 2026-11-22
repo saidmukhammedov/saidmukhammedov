@@ -1,11 +1,11 @@
 const fs = require('fs')
 
 const USER = 'saidmukhammedov'
-const SINCE = '2025-01-01'
+const SINCE = '2025-10-18'
 const WIDTH = 54
 
 const info = [
-  ['OS', 'Windows, Linux'],
+  ['OS', 'Windows, macOS'],
   ['Uptime', null],
   ['Host', 'TUIT, Software Engineering'],
   ['Kernel', 'Full Stack Developer'],
